@@ -1,1 +1,1 @@
-# lecture_notes
+# lecture-notes
